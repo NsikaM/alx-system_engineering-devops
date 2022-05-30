@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
 #!/bin/bash
-echo "Best School" | cat > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
->>>>>>> cb9da10caadc20e93c2cff64dacb50089f481d44
+echo "Best School" | cat > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
